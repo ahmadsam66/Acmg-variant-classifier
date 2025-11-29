@@ -1,6 +1,6 @@
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 20px;">
 
 <h1>ACMG Variant Classifier v2</h1>
 <p><em>A Research-Grade ACMG-Like Variant Interpretation & Reporting Pipeline</em><br>
@@ -8,13 +8,13 @@
 <strong>Email:</strong> <a href="mailto:ahmad.moousavi@gmail.com">ahmad.moousavi@gmail.com</a>
 </p>
 
-    </td>
-    <td align="center">
-      <img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="180">
-    </td>
-  </tr>
-</table>
+</div>
 
+<div style="flex: 0 0 auto;">
+  <img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="150">
+</div>
+
+</div>
 
 ---
 
