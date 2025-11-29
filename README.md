@@ -1,9 +1,19 @@
+<table>
+  <tr>
+    <td>
+
 # ACMG Variant Classifier v2
 *A Research-Grade ACMG-Like Variant Interpretation & Reporting Pipeline*  
 **Author:** *Seyed Ahmad Mousavi*  
 **Email:** *ahmad.moousavi@gmail.com*
----
-<img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="250">
+
+    </td>
+    <td align="center">
+      <img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="250">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📌 Overview
