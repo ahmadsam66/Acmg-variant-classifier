@@ -2,14 +2,15 @@
   <tr>
     <td>
 
-# ACMG Variant Classifier v2
-*A Research-Grade ACMG-Like Variant Interpretation & Reporting Pipeline*  
-**Author:** *Seyed Ahmad Mousavi*  
-**Email:** *ahmad.moousavi@gmail.com*
+<h1>ACMG Variant Classifier v2</h1>
+<p><em>A Research-Grade ACMG-Like Variant Interpretation & Reporting Pipeline</em><br>
+<strong>Author:</strong> Seyed Ahmad Mousavi<br>
+<strong>Email:</strong> <a href="mailto:ahmad.moousavi@gmail.com">ahmad.moousavi@gmail.com</a>
+</p>
 
     </td>
     <td align="center">
-      <img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="250">
+      <img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="180">
     </td>
   </tr>
 </table>
