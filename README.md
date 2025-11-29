@@ -2,7 +2,8 @@
 *A Research-Grade ACMG-Like Variant Interpretation & Reporting Pipeline*  
 **Author:** *Seyed Ahmad Mousavi*  
 **Email:** *ahmad.moousavi@gmail.com*
-
+---
+<img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="250">
 ---
 
 ## 📌 Overview
@@ -28,8 +29,7 @@ The tool accepts:
 This tool is **strictly for research and educational use**.  
 It is **NOT** a clinical ACMG implementation and must **not** be used for diagnosis, patient management, or clinical decision making.
 
----
-<img src="76369860-5d2b-4dfa-8d75-b155fc288714.png" width="250">
+
 ---
 
 ## 🎯 Key Features
