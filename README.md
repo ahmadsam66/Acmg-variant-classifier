@@ -89,7 +89,7 @@ Automatically extracts ANN fields, AF, GNOMAD_AF, EXAC_AF, gene info, and HGVS.
 ### Run on ANNOVAR file
 
 ```bash
-python acmg_variant_classifier_v2.py   --input RoyanCell_Sample_Annotated.tsv   --outdir royan_output   --sample-name RoyanCell_Exome
+python acmg_variant_classifier_v2.py   --input Cell_Sample_Annotated.tsv   --outdir Cell_output   --sample-name Cell_Exome
 ```
 
 ### Run on SnpEff VCF
