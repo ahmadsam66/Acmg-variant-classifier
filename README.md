@@ -93,7 +93,7 @@ export NCBI_API_KEY="your_api_key_here"
 
 ### 1. ANNOVAR TSV or CSV file  
 Example file name used in this README:  
-`RoyanCell_Sample_Annotated.tsv`
+`Sample.tsv`
 
 ### 2. SnpEff VCF / VCF.gz  
 Automatically extracts ANN fields, AF, GNOMAD_AF, EXAC_AF, gene info, and HGVS.
@@ -105,7 +105,7 @@ Automatically extracts ANN fields, AF, GNOMAD_AF, EXAC_AF, gene info, and HGVS.
 ### Run on ANNOVAR file
 
 ```bash
-python acmg_variant_classifier_v2.py   --input Cell_Sample_Annotated.tsv   --outdir Cell_output   --sample-name Cell_Exome
+python acmg_variant_classifier_v2.py   --input Sample.tsv   --outdir Cell_output   --sample-name Cell_Exome
 ```
 
 ### Run on SnpEff VCF
